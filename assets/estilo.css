@@ -31,4 +31,5 @@ a { color: var(--acento); }
 img.mapa { display: block; max-width: 100%; height: auto; border: 1px solid var(--linea); border-radius: 6px; margin-top: 14px; }
 .aviso, .aviso a { color: var(--alerta); }
 p.nota { margin: 6px 0 0; font-size: .85rem; color: var(--suave); }
+p.correcciones { margin: 20px 0 0; padding-top: 14px; border-top: 1px solid var(--linea); font-size: .95rem; color: var(--suave); }
 footer { border-top: 1px solid var(--linea); padding: 16px 0; color: var(--suave); font-size: .85rem; }
